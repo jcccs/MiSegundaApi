@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "titulo": "libroCmabiado",
+    "autor": "autorCambiado",
+    "anio": 1997
+  },
+  {
+    "id": 2,
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "anio": 1953
+  },
+  {
+    "id": 3,
+    "titulo": "Nosotros",
+    "autor": "Yevgueni Zamiatin",
+    "anio": 1924
+  },
+  {
+    "id": 4,
+    "titulo": "El cuento de la criada",
+    "autor": "Margaret Atwood",
+    "anio": 1985
+  },
+  {
+    "id": 5,
+    "titulo": "Rebelión en la granja",
+    "autor": "George orwell",
+    "anio": 1945
+  },
+  {
+    "id": 6,
+    "titulo": "nuevoLibro",
+    "autor": "abcdario",
+    "anio": 1229
+  }
+]
